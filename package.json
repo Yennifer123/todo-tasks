@@ -9,6 +9,10 @@
   "author": "Yennifer Martinez",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "mongose": "0.0.2-security",
+    "node-env": "^0.1.6",
+    "node-env-file": "^0.1.8"
   }
 }
